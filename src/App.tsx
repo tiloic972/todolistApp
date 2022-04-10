@@ -1,6 +1,6 @@
 import React from "react";
-import AppNavigator from "./containers/AppNavigator";
-import TodoList from "./containers/TodoList";
+import AppNavigator from "./components/AppNavigator";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
